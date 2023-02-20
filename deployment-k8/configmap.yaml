@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-springboot-config
+data:
+  server.port : "server_port"
+  spring.datasource.url : database_url
+  spring.datasource.username : database_username
+  spring.datasource.password: database_password
+  spring.datasource.driverClassName: database_driver
+ 
+    
