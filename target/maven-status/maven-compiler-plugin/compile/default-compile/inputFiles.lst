@@ -1,0 +1,6 @@
+/home/niveus/crudapijava/sampleCrud/src/main/java/com/example/userCrud/entity/User.java
+/home/niveus/crudapijava/sampleCrud/src/main/java/com/example/userCrud/service/UserService.java
+/home/niveus/crudapijava/sampleCrud/src/main/java/com/example/userCrud/repository/UserRepository.java
+/home/niveus/crudapijava/sampleCrud/src/main/java/com/example/userCrud/controller/UserController.java
+/home/niveus/crudapijava/sampleCrud/src/main/java/com/example/userCrud/service/UserServiceImpl.java
+/home/niveus/crudapijava/sampleCrud/src/main/java/com/example/userCrud/SampleCrudApplication.java

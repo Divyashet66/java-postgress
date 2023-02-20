@@ -1,0 +1,7 @@
+com/example/userCrud/repository/UserRepository.class
+com/example/userCrud/service/UserServiceImpl.class
+com/example/userCrud/entity/User$UserBuilder.class
+com/example/userCrud/controller/UserController.class
+com/example/userCrud/service/UserService.class
+com/example/userCrud/SampleCrudApplication.class
+com/example/userCrud/entity/User.class
