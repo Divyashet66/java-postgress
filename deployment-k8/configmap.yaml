@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: my-springboot-config
 data:
-  server.port : "server_port"
+  server.port : "null"
   spring.datasource.url : null
   spring.datasource.username : null
   spring.datasource.password: null
