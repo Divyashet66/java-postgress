@@ -3,10 +3,10 @@ kind: ConfigMap
 metadata:
   name: my-springboot-config
 data:
-  server.port : "8080"
-  spring.datasource.url : jdbc:postgresql://34.172.237.41:5432/my_first_postgress_database
-  spring.datasource.username : postgres
-  spring.datasource.password: password
-  spring.datasource.driverClassName: org.postgresql.Driver
+  server.port : "null"
+  spring.datasource.url : null
+  spring.datasource.username : null
+  spring.datasource.password: null
+  spring.datasource.driverClassName: null
  
     
