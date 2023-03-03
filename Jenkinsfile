@@ -43,11 +43,11 @@ pipeline {
 			    sh 'whoami'
 			    sh 'sudo chmod 777 /var/run/docker.sock'
 			    
-// 			    sh 'sudo apt update'
+			    sh 'sudo apt update'
  			    sh 'sudo apt install software-properties-common'
 			    sh 'sudo add-apt-repository ppa:cncf-buildpacks/pack-cli'
 			    
-//  				sh 'sudo  apt-get update'
+ 				sh 'sudo  apt-get update'
  				sh 'sudo apt-get install pack-cli'
 			   
 			    sh 'pack build java-postgress --builder paketobuildpacks/builder:full'
